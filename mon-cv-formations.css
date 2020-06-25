@@ -1,0 +1,18 @@
+h1
+{
+background-color: gray;
+}
+
+section
+{
+
+    border-color: gray;
+padding: 5%;
+margin: 5%;
+border-width: 1px;
+border-style: solid;
+}
+footer
+{
+    background-color: gray;
+}

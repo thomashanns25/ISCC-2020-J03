@@ -1,0 +1,46 @@
+body
+{
+    color: darkslategrey;
+    padding: 0% 10%;
+}
+body
+{
+    background-color: aliceblue;
+}
+
+h1
+{
+ color: red;
+ opacity: 0.2;
+ font-size: 45px;
+ text-decoration: underline;
+ background-color: black;
+ text-align: center;
+ padding: 10px;
+ margin: 0;
+}
+
+h2
+{
+    color: #b22222;
+    font-size: 25px;
+    text-align: center;
+}
+p
+{
+    border-width: 2px; 
+    border-style: solid;
+    border-color: black;
+}
+p li
+{
+    padding: 5%;
+}
+span
+{
+ color: greenyellow;
+}
+section
+{
+    color: green;
+}
